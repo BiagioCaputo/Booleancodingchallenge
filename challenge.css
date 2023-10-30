@@ -1,0 +1,54 @@
+body{
+    background-image:url(background.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+}
+
+.container{
+    background-color: rgba(0,0,0,0.54);
+    border-radius: 15px 15px 15px 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    margin-left: 360px;
+    margin-right: 270px;
+    width:1500px;
+    max-height:820px;
+    
+
+}
+
+.logo{
+   display:block;
+   margin-left:auto;
+   margin-right:auto;
+   width:270px;
+}
+
+header > h1{
+    color:rgb(47, 255, 60);
+    text-align: center;
+}
+
+
+
+.navigator{
+    height: 34px;
+    padding-top: 13px;
+    text-align: center;
+    background-color:rgb(29, 197, 7);
+    
+}
+
+
+main > div{
+    border-radius: 10px 10px 10px 10px;
+}
+
+p{
+    font-size:19px;
+}
